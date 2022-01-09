@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://cervantesdeveloper.github.io/NTF-preview-card-component/)
+- Live Site URL: [my solution](https://cervantesdeveloper.github.io/NTF-preview-card-component/)
 
 ## My process
 
@@ -52,7 +52,7 @@ I'll be solving some projects as newfie and jr while I take some lessons about J
 
 ### Useful resources
 
-- [Example resource 1](https://en.bem.info/) - This helped me remember the BEM methodology.
+- [BEM methodology](https://en.bem.info/) - This helped me remember the BEM methodology.
 
 
 ## Author
